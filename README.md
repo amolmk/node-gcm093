@@ -4,7 +4,7 @@ node-gcm is a Node.JS library for [**Google Cloud Messaging for Android**](http:
 
 ## Installation
 ```bash
-$ npm install node-gcm
+$ npm install node-gcm093
 ```
 ##Requirements
 
@@ -13,7 +13,7 @@ An Android device running 2.2 or newer and an API key as per [GCM getting starte
 ## Usage
 
 ```js
-var gcm = require('node-gcm');
+var gcm = require('node-gcm093');
 
 var message = new gcm.Message();
 var sender = new gcm.Sender('insert Google Server API Key here');
