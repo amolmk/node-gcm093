@@ -1,19 +1,19 @@
 {
-  "name": "node-gcm093",
-  "version": "0.9.3",
-  "description": "For Fixing push notification issues in new version ~0.14.3",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/amolmk/node-gcm093.git"
-  },
-  "author": "Amk",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/amolmk/node-gcm093/issues"
-  },
-  "homepage": "https://github.com/amolmk/node-gcm093#readme"
+    "name": "node-gcm093",
+    "version": "0.9.15",
+    "description": "For Fixing push notification issues in new version ~0.14.3",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/amolmk/node-gcm093.git"
+    },
+    "author": "Amk",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/amolmk/node-gcm093/issues"
+    },
+    "homepage": "https://github.com/amolmk/node-gcm093#readme"
 }
